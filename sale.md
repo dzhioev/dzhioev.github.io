@@ -3,28 +3,28 @@
 * ~~Шкаф-стеллаж~~ (забронирована i-y)
 
   Цена: 1999 р.
-  [Описание на Avito](https://www.avito.ru/moskva/mebel_i_interer/shkaf-stellazh_549580954)
+  [Подробности на Avito](https://www.avito.ru/moskva/mebel_i_interer/shkaf-stellazh_549580954)
 
   ![](https://dl.dropboxusercontent.com/u/35062521/IMG_3681.JPG)
 
 * Стол Г-образный
 
   Цена: 1499 р.
-  [Описание на Avito](https://www.avito.ru/moskva/mebel_i_interer/stol_g-obraznyy_549583454)
+  [Подробности на Avito](https://www.avito.ru/moskva/mebel_i_interer/stol_g-obraznyy_549583454)
 
   ![](https://dl.dropboxusercontent.com/u/35062521/IMG_3683.JPG)
 
 * ~~Тумба с 4 ящиками~~ (забронирована R-e, +1)
 
   Цена: 1499 р.
-  [Описание на Avito](https://www.avito.ru/moskva/mebel_i_interer/tumba_s_4_yaschikami_549579261)
+  [Подробности на Avito](https://www.avito.ru/moskva/mebel_i_interer/tumba_s_4_yaschikami_549579261)
 
   ![](https://dl.dropboxusercontent.com/u/35062521/IMG_3684.JPG)
 
 * ~~Кресло руководителя~~ (забронировано М.)
 
   Цена: 1499 р.
-  [Описание на Avito](https://www.avito.ru/moskva/mebel_i_interer/kreslo_rukovoditelya_549554060)
+  [Подробности на Avito](https://www.avito.ru/moskva/mebel_i_interer/kreslo_rukovoditelya_549554060)
 
   ![](https://dl.dropboxusercontent.com/u/35062521/IMG_3685.JPG)
 
@@ -41,9 +41,9 @@
   * Я. Гашек -- Похождения бравого солдата Швейка
   * С. Моэм -- Бремя страстей человеческих
   * А. Перес-Реверте -- Фламандская доска
-  * Г.Г. Маркес -- Вспоминая моих грустных шлюх
+  * ~~Г.Г. Маркес -- Вспоминая моих грустных шлюх~~ (забронировано H-i)
   * М. Пьюзо -- Крестный отец
-  * Ж.-П. Сартр -- Тошнота
+  * ~~Ж.-П. Сартр -- Тошнота~~ (заброниравоно B-d)
   * ~~Б. Пастернак -- Доктор Живаго~~ (забронировано A-d)
   * Б. Пастернак -- Доктор Живаго (второй экз.)
   * Д. Фаулз -- Башня из черного дерева
@@ -58,15 +58,15 @@
   * Б. Вербер -- Империя ангелов
   * М. Горький -- Мать. Воспоминания
   * У. Гибсон -- Джонни Мнемоник
-  * Ф. Ницше -- Так говорил Заратустра
+  * ~~Ф. Ницше -- Так говорил Заратустра~~ (заброниравоно H-i)
 
   ![](https://dl.dropboxusercontent.com/u/35062521/IMG_3692.JPG)
 
   * А. и Б. Стругацкие -- Понедельник начинается в субботу
-  * Х. Мураками -- Слушай песню ветра
-  * В. Набоков -- Лолита
+  * ~~Х. Мураками -- Слушай песню ветра~~ (заброниравоно H-i)
+  * ~~В. Набоков -- Лолита~~ (заброниравно H-i, +2)
   * А. и Б. Стругацкие -- Пикник на обочине
-  * Ф. Достоевский -- Идиот
+  * ~~Ф. Достоевский -- Идиот~~ (забронировано l-i)
   * С. Фрай -- Теннисные мячики небес
   * Д.Г. Лоуренс -- Любовник леди Чаттерли
   * М. Пьюзо -- Первый дон
@@ -78,11 +78,11 @@
   * В. Гисин, И. Денежкина, С. Зададев -- Практикум по дифференциальным уравнениям.
   * Н. Редькин -- Дискретная математика
   * ~~Н. Вирт -- Алгоритмы и структуры данных~~ (забронировано Д.С.)
-  * Г. Шилдт -- Полный справочник по C++. Четвертое издание
+  * ~~Г. Шилдт -- Полный справочник по C++. Четвертое издание~~ (заброниравоно l-i)
   * ~~Д. Баррет -- Linux: основные команды~~ (забронировано П.Г., +1)
   * ~~C. Беркун -- Искусство управления IT-проектами~~ (забронировано П.Г., +1)
   * ~~Б. Керниган, Р. Пайк -- Практика программирования~~ (забронировано П.Г., +1)
-  * Д. Кнут -- Искусство программирования. Том 2
+  * ~~Д. Кнут -- Искусство программирования. Том 2~~ (забронировано eT, +2)
   * ~~У. Стивенс, С. Раго -- UNIX Профессиональне программирование~~ (забронировано Д.С.)
   * Э. Троелсен -- C# и платформа .NET (2007 г.)
   * Ю. Щупак -- Win32 API. Разработка приложений для Windows (2008 г.)
@@ -101,17 +101,24 @@
 
 # Техника
 
+* Утюг Tefal Ultragliss 4650
+
+  Цена: 1499 р.
+  [Подробности на Avito](https://www.avito.ru/moskva/bytovaya_tehnika/utyug_tefal_ultragliss_4650_550410076)
+  
+  ![](https://dl.dropboxusercontent.com/u/35062521/iron.jpg)
+
 * Пылесос Bosch Formula Hygienixx
 
   Цена: 1999 р.
-  [Описание на Avito](https://www.avito.ru/moskva/bytovaya_tehnika/pylesos_bosch_formula_hygienixx_549677120)
+  [Подробности на Avito](https://www.avito.ru/moskva/bytovaya_tehnika/pylesos_bosch_formula_hygienixx_549677120)
 
   ![](https://dl.dropboxusercontent.com/u/35062521/IMG_3701.JPG)
 
 * Фен Polaris PHD 2059
 
   Цена: 499 р.
-  [Описание на Avito](https://www.avito.ru/moskva/bytovaya_tehnika/fen_polaris_phd_2059_549677899)
+  [Подробности на Avito](https://www.avito.ru/moskva/bytovaya_tehnika/fen_polaris_phd_2059_549677899)
 
   ![](https://dl.dropboxusercontent.com/u/35062521/IMG_3712.JPG)
 
@@ -131,7 +138,7 @@
 * ~~Электрочайник Bosch TWK 8611~~ (забронировано Д.И., +4)
 
   Цена: 999 р.
-  [Описание на Avito](https://www.avito.ru/moskva/bytovaya_tehnika/elektrochaynik_bosch_twk_8611_549677750)
+  [Подробности на Avito](https://www.avito.ru/moskva/bytovaya_tehnika/elektrochaynik_bosch_twk_8611_549677750)
 
   ![](https://dl.dropboxusercontent.com/u/35062521/bosh.jpeg)
 
