@@ -1,6 +1,6 @@
 # Мебель
 
-* Шкаф-стеллаж
+* ~~Шкаф-стеллаж~~ (забронирована i-y)
 
   Цена: 1999 р.
   [Описание на Avito](https://www.avito.ru/moskva/mebel_i_interer/shkaf-stellazh_549580954)
@@ -14,7 +14,7 @@
 
   ![](https://dl.dropboxusercontent.com/u/35062521/IMG_3683.JPG)
 
-* ~~Тумба с 4 ящиками~~ (забронирована R-e)
+* ~~Тумба с 4 ящиками~~ (забронирована R-e, +1)
 
   Цена: 1499 р.
   [Описание на Avito](https://www.avito.ru/moskva/mebel_i_interer/tumba_s_4_yaschikami_549579261)
@@ -28,7 +28,7 @@
 
   ![](https://dl.dropboxusercontent.com/u/35062521/IMG_3685.JPG)
 
-* Тумба под телевизор
+* ~~Тумба под телевизор~~ (забронирована i-y)
 
   Цена: 999 р.
   [Oписание на Avito](https://www.avito.ru/moskva/mebel_i_interer/tumba_pod_tv_ikea_549593014)
@@ -115,7 +115,7 @@
 
   ![](https://dl.dropboxusercontent.com/u/35062521/IMG_3712.JPG)
 
-* ~~Роутер Asus RT-N10~~ (забронировано S_F, +6)
+* ~~Роутер Asus RT-N10~~ (забронировано S_F, +7)
 
   Бесплатно.
   Работал несколько лет без нареканий, перезимовал на балконе.
@@ -128,7 +128,7 @@
 
   ![](https://dl.dropboxusercontent.com/u/35062521/IMG_3699.JPG)
 
-* ~~Электрочайник Bosch TWK 8611~~ (забронировано Д.И., +3)
+* ~~Электрочайник Bosch TWK 8611~~ (забронировано Д.И., +4)
 
   Цена: 999 р.
   [Описание на Avito](https://www.avito.ru/moskva/bytovaya_tehnika/elektrochaynik_bosch_twk_8611_549677750)
