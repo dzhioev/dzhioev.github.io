@@ -112,13 +112,7 @@ Mazda 2 2010 г. (в эксплуатации с марта 2011 г.) Пробе
   
   ![](https://dl.dropboxusercontent.com/u/35062521/iron.jpg)
 
-* Пылесос Bosch Formula Hygienixx
-
-  Цена: 1999 р.
-  [Подробности на Avito](https://www.avito.ru/moskva/bytovaya_tehnika/pylesos_bosch_formula_hygienixx_549677120)
-
-  ![](https://dl.dropboxusercontent.com/u/35062521/IMG_3701.JPG)
-
+* ~~Пылесос Bosch Formula Hygienixx~~
 * Фен Polaris PHD 2059
 
   Цена: 499 р.
