@@ -1,0 +1,3 @@
+[submodule "forever/sumbodules_test/polymer"]
+	path = forever/sumbodules_test/polymer
+	url = git@github.com:dzhioev/PolymerElements.git
