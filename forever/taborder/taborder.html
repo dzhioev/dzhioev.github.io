@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+
+<link rel="import" href="polymer/polymer/polymer.html">
+
+<dom-module name="foo-bar">
+  <template>
+    <input type="text" value="Shadow A"></input><br/>
+    <content></content><br/>
+    <input type="text" value="Shadow B"></input>
+  </template>
+  <script>
+    Polymer({ is: 'foo-bar' });
+  </script>
+</dom-module>
+
+</head>
+<body>
+  <foo-bar>
+    <input type="text" value="Inserted"></input>
+  </foo-bar>
+</body>
+</html>
