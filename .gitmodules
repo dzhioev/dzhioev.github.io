@@ -4,3 +4,6 @@
 [submodule "forever/taborder/polymer"]
 	path = forever/taborder/polymer
 	url = https://github.com/dzhioev/PolymerElements.git
+[submodule "forever/button_padding/polymer"]
+	path = forever/button_padding/polymer
+	url = https://github.com/dzhioev/PolymerElements.git
